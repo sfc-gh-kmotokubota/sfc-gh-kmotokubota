@@ -22,7 +22,7 @@ Snowflake Solutions Engineer based in Japan. Building demos, hands-on labs, and 
 | Repo | Description |
 |------|-------------|
 | [snowflake-databricks-interop-demo](https://github.com/sfc-gh-kmotokubota/snowflake-databricks-interop-demo) | Snowflake ↔ Databricks interop (Iceberg, Delta Direct, Spark Connector) |
-| [sales_assistant_agent_by_snowflake_intelligence](https://github.com/sfc-gh-kmotokubota/sales_assistant_agent_by_snowflake_intelligence) | Snowflake Intelligence demo for financial sales |
+| [sales_assistant_agent_by_snowflake_intelligence](https://github.com/sfc-gh-kmotokubota/sales_assistant_agent_by_snowflake_intelligence) | Snowflake CoWork demo for financial sales |
 | [sfguide-portfolio-optimization-nvidia-gpu](https://github.com/sfc-gh-kmotokubota/sfguide-portfolio-optimization-nvidia-gpu) | Portfolio optimization with NVIDIA GPUs on SPCS |
 | [sfguide-agentic-ai-for-asset-management-ja](https://github.com/sfc-gh-kmotokubota/sfguide-agentic-ai-for-asset-management-ja) | Cortex AI Agent for asset management (JP) |
 | [sfguide-quantitative-research-ai-functions-and-cortex-code-ja](https://github.com/sfc-gh-kmotokubota/sfguide-quantitative-research-ai-functions-and-cortex-code-ja) | Cortex AI quantitative research (JP) |
