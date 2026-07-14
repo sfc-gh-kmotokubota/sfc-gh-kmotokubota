@@ -3,30 +3,6 @@
 **Snowflake Solutions Engineer** based in Japan 🇯🇵
 Building demos, hands-on labs, and Streamlit apps on the Snowflake AI Data Cloud.
 
-<a href="https://github.com/sfc-gh-kmotokubota"><img src="https://img.shields.io/badge/GitHub-sfc--gh--kmotokubota-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.snowflake.com"><img src="https://img.shields.io/badge/Snowflake-Solutions%20Engineer-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"></a>
-<img src="https://img.shields.io/badge/Location-Japan-black?style=flat-square" alt="Japan">
-
-<br>
-
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Cortex%20AI-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Cortex AI">
-<img src="https://img.shields.io/badge/SPCS-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="SPCS">
-<img src="https://img.shields.io/badge/Apache%20Iceberg-1C4E80?style=flat-square&logo=apacheiceberg&logoColor=white" alt="Iceberg">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sfc-gh-kmotokubota&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfc-gh-kmotokubota&layout=compact&hide_border=true&hide_title=true&theme=default" alt="Top Languages" />
-</p>
-
 ---
 
 ## 📚 Repositories by Category
