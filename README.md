@@ -1,51 +1,53 @@
-### 👋 Hi, I'm Kosuke Motokubota
+```
+KOSUKE MOTOKUBOTA
+Solutions Engineer · Snowflake · Tokyo
+Financial Services  /  Applied AI  /  Data Platforms
+```
 
-**Snowflake Solutions Engineer** based in Japan 🇯🇵
-Building demos, hands-on labs, and apps on the Snowflake AI Data Cloud — mainly for Financial Services (asset management, insurance, securities).
+Reference implementations for asset managers, insurers and broker-dealers on the Snowflake AI Data Cloud —
+portfolio analytics, research automation and agentic workflows, built end to end in SQL and Python.
 
----
+&nbsp;
 
-## 🇯🇵 Hands-on Labs (Japanese)
+#### HANDS-ON LABS · FINANCIAL SERVICES
 
-### Financial Services × AI
-| Repo | Description |
-|------|-------------|
-| [snowlife-app-handson](https://github.com/sfc-gh-kmotokubota/snowlife-app-handson) | 生命保険 法人営業 AI アプリ（CoCo CLI × Cortex Agent × App Runtime） |
-| [snowlife-corporate-sales-handson](https://github.com/sfc-gh-kmotokubota/snowlife-corporate-sales-handson) | 生命保険 法人営業向け AI ハンズオン（Semantic View / Cortex Agent / CoWork） |
-| [asset-management-ai-handson](https://github.com/sfc-gh-kmotokubota/asset-management-ai-handson) | 資産運用・財務企画部門向け AI ハンズオン（AI Functions → Cortex Agent → CoWork） |
-| [etf-ai-handson](https://github.com/sfc-gh-kmotokubota/etf-ai-handson) | ポートフォリオマネージャー向け ETF × Cortex AI ハンズオン |
-| [quant-portfolio-optimization-snowflake-hol](https://github.com/sfc-gh-kmotokubota/quant-portfolio-optimization-snowflake-hol) | Snowflake × AI によるクオンツ・ポートフォリオ最適化 |
-| [pension_fund_esg_handson](https://github.com/sfc-gh-kmotokubota/pension_fund_esg_handson) | 年金基金向け ESG レポート分析 |
-| [fx_handson](https://github.com/sfc-gh-kmotokubota/fx_handson) | Marketplace データを使った FX 分析・検索アプリ |
-| [car_insurance_handson](https://github.com/sfc-gh-kmotokubota/car_insurance_handson) | 自動車保険データを使った LLM ハンズオン |
+| Repository | Focus | Stack |
+|:--|:--|:--|
+| [asset-management-ai-handson](https://github.com/sfc-gh-kmotokubota/asset-management-ai-handson) | Earnings-call and news analytics for asset managers | <sub>`AI Functions` `Cortex Agent` `CoWork`</sub> |
+| [quant-portfolio-optimization-snowflake-hol](https://github.com/sfc-gh-kmotokubota/quant-portfolio-optimization-snowflake-hol) | Quantitative portfolio construction and optimization | <sub>`Snowpark` `Python`</sub> |
+| [etf-ai-handson](https://github.com/sfc-gh-kmotokubota/etf-ai-handson) | ETF research workflow for portfolio managers | <sub>`Cortex Search` `Cortex Analyst`</sub> |
+| [pension_fund_esg_handson](https://github.com/sfc-gh-kmotokubota/pension_fund_esg_handson) | ESG and stewardship report analysis for pension funds | <sub>`Document AI` `Streamlit`</sub> |
+| [fx_handson](https://github.com/sfc-gh-kmotokubota/fx_handson) | FX market data analysis and search | <sub>`Marketplace` `Cortex Search`</sub> |
+| [snowlife-corporate-sales-handson](https://github.com/sfc-gh-kmotokubota/snowlife-corporate-sales-handson) | Semantic layer and agents for life-insurance sales | <sub>`Semantic View` `Cortex Agent`</sub> |
+| [snowlife-app-handson](https://github.com/sfc-gh-kmotokubota/snowlife-app-handson) | Full-stack AI application for insurance sales | <sub>`Cortex Agent` `App Runtime`</sub> |
+| [car_insurance_handson](https://github.com/sfc-gh-kmotokubota/car_insurance_handson) | LLM workflows on auto-insurance data | <sub>`Cortex AI`</sub> |
 
-### Snowflake Platform
-| Repo | Description |
-|------|-------------|
-| [cortex-ai-handson](https://github.com/sfc-gh-kmotokubota/cortex-ai-handson) | Cortex AI ハンズオン（AI Functions / Search / Agent） |
-| [snowflake-ml-handson-jp](https://github.com/sfc-gh-kmotokubota/snowflake-ml-handson-jp) | ML/MLOps ハンズオン（Feature Store, ML Jobs, Model Registry, SPCS） |
-| [zero-to-snowflake-jp](https://github.com/sfc-gh-kmotokubota/zero-to-snowflake-jp) | Zero to Snowflake 日本語版 |
+#### HANDS-ON LABS · PLATFORM
 
-## 📘 Quickstart Guides (Japanese)
-| Repo | Description |
-|------|-------------|
-| [sfguide-agentic-ai-for-asset-management-ja](https://github.com/sfc-gh-kmotokubota/sfguide-agentic-ai-for-asset-management-ja) | Cortex AI エージェントによるアセットマネジメント |
-| [sfguide-quantitative-research-ai-functions-and-cortex-code-ja](https://github.com/sfc-gh-kmotokubota/sfguide-quantitative-research-ai-functions-and-cortex-code-ja) | AI Functions と Cortex Code による定量リサーチ |
+| Repository | Focus | Stack |
+|:--|:--|:--|
+| [cortex-ai-handson](https://github.com/sfc-gh-kmotokubota/cortex-ai-handson) | Generative AI on governed enterprise data | <sub>`AI Functions` `Cortex Search` `Cortex Agent`</sub> |
+| [snowflake-ml-handson-jp](https://github.com/sfc-gh-kmotokubota/snowflake-ml-handson-jp) | End-to-end MLOps | <sub>`Feature Store` `Model Registry` `SPCS`</sub> |
+| [zero-to-snowflake-jp](https://github.com/sfc-gh-kmotokubota/zero-to-snowflake-jp) | Snowflake fundamentals | <sub>`SQL`</sub> |
 
-## 🎯 Demos
-| Repo | Description |
-|------|-------------|
-| [snowlife-sales-demo](https://github.com/sfc-gh-kmotokubota/snowlife-sales-demo) | Life insurance sales demo with Snowflake CoWork and Streamlit |
-| [sales_assistant_agent_by_snowflake_intelligence](https://github.com/sfc-gh-kmotokubota/sales_assistant_agent_by_snowflake_intelligence) | Sales assistant agent for securities sales |
+#### QUICKSTART GUIDES
 
-## 🖥️ Streamlit Apps
-| Repo | Description |
-|------|-------------|
-| [hr-talent-management-app](https://github.com/sfc-gh-kmotokubota/hr-talent-management-app) | HR talent management with Cortex AI search (Container Runtime) |
-| [streamlit-us-stock-analysis](https://github.com/sfc-gh-kmotokubota/streamlit-us-stock-analysis) | US stock analysis with Marketplace data |
-| [streamlit-cpi-fx-dashboard](https://github.com/sfc-gh-kmotokubota/streamlit-cpi-fx-dashboard) | CPI & FX rate trends dashboard |
-| [simple_search_streamlit_app](https://github.com/sfc-gh-kmotokubota/simple_search_streamlit_app) | Simple search app with Cortex Search |
+| Repository | Focus | Stack |
+|:--|:--|:--|
+| [sfguide-agentic-ai-for-asset-management-ja](https://github.com/sfc-gh-kmotokubota/sfguide-agentic-ai-for-asset-management-ja) | Multi-agent research and operations for asset management | <sub>`Cortex Agent` `Semantic View`</sub> |
+| [sfguide-quantitative-research-ai-functions-and-cortex-code-ja](https://github.com/sfc-gh-kmotokubota/sfguide-quantitative-research-ai-functions-and-cortex-code-ja) | Quantitative research with AI Functions | <sub>`AI Functions` `Cortex Code`</sub> |
 
----
+#### DEMOS & APPLICATIONS
 
-<p align="center"><i>❄️ Powered by Snowflake AI Data Cloud</i></p>
+| Repository | Focus | Stack |
+|:--|:--|:--|
+| [sales_assistant_agent_by_snowflake_intelligence](https://github.com/sfc-gh-kmotokubota/sales_assistant_agent_by_snowflake_intelligence) | Sales assistant agent for securities firms | <sub>`Cortex Agent` `CoWork`</sub> |
+| [snowlife-sales-demo](https://github.com/sfc-gh-kmotokubota/snowlife-sales-demo) | Life-insurance sales intelligence | <sub>`CoWork` `Streamlit`</sub> |
+| [streamlit-us-stock-analysis](https://github.com/sfc-gh-kmotokubota/streamlit-us-stock-analysis) | US equity analytics on Marketplace data | <sub>`Streamlit` `Marketplace`</sub> |
+| [streamlit-cpi-fx-dashboard](https://github.com/sfc-gh-kmotokubota/streamlit-cpi-fx-dashboard) | Macro dashboard — CPI and FX | <sub>`Streamlit`</sub> |
+| [hr-talent-management-app](https://github.com/sfc-gh-kmotokubota/hr-talent-management-app) | Talent search with semantic retrieval | <sub>`Cortex Search` `Container Runtime`</sub> |
+| [simple_search_streamlit_app](https://github.com/sfc-gh-kmotokubota/simple_search_streamlit_app) | Minimal Cortex Search application | <sub>`Cortex Search` `Streamlit`</sub> |
+
+&nbsp;
+
+<sub>Materials are primarily in Japanese. All datasets are synthetic or sourced from public / Marketplace data.</sub>
